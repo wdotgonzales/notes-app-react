@@ -5,6 +5,7 @@ The Notes App is a web application designed to facilitate note-taking with featu
 
 ## Features
 - **Add Notes**: Easily create new notes with titles and descriptions.
+- **Select a Specific Note**: Quickly access and view a specific note from the list of saved notes.
 - **Edit Notes**: Modify the titles or descriptions of existing notes.
 - **Delete Notes**: Remove unwanted notes from the app.
 - **Last Modified Timestamp**: The app automatically updates the last modified date and time whenever a note's title or description is edited.
