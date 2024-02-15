@@ -1,6 +1,4 @@
 # Notes App
-
-## Description
 The Notes App is a web application designed to facilitate note-taking with features to add, edit, and delete notes. It utilizes React, Redux Toolkit, Bootstrap, and Flowbite to create a user-friendly experience. The app allows users to input a title and description for each note, which are then saved to the browser's local storage. Additionally, it integrates the React Markdown library to format plain text without the need for a text editor or HTML tags.
 
 ## Features
