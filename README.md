@@ -22,7 +22,7 @@ To run the Notes App locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd quiz-app-react
+   cd notes-app-react
 
 3. Install dependencies:
 
