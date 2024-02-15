@@ -1,7 +1,9 @@
 # Notes App using Redux Toolkit
 The Notes App is a web application designed to facilitate note-taking with features to add, select, edit, and delete notes. It utilizes **React**, **Redux Toolkit**, **Bootstrap**, and **Flowbite** to create a user-friendly experience. The app allows users to input a title and description for each note, which are then saved to the browser's local storage. Additionally, it integrates the React Markdown library to format plain text without the need for a text editor or HTML tags.
 
-https://github.com/wdotgonzales/notes-app-react/assets/98573039/850311a8-26b1-4015-aa3f-a8302c196644
+![image](https://github.com/wdotgonzales/notes-app-react/assets/98573039/455e5163-6957-42de-8233-69c5774ab72e)
+![image](https://github.com/wdotgonzales/notes-app-react/assets/98573039/eeb94e1a-ffde-4cdd-8091-51b376d016ee)
+
 
 ## Features
 - **Add Notes**: Easily create new notes with titles and descriptions.
